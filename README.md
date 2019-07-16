@@ -1,4 +1,4 @@
-# A Binder to analyse Binder
+# A Binder to analyse mybinder.org usage
 
 > A binder to bind them all!
 
